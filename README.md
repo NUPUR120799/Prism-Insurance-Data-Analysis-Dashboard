@@ -3,6 +3,7 @@
 This Insurance Dashboard for PRISM INSURANCE PVT. LTD. is designed to provide a detailed analysis of policy performance, claim activity, and customer behavior. It helps stakeholders monitor key insurance metrics and identify trends for improving operations, customer service, and profitability.
 
 📊 Key Metrics & Insights Provided:
+
 ✅ Customer Overview
 
 Gender Distribution: Equal split of 5,000 male and 5,000 female customers, helping ensure fair representation in analysis.
