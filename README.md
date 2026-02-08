@@ -2,6 +2,8 @@
 
 This Insurance Dashboard for PRISM INSURANCE PVT. LTD. is designed to provide a detailed analysis of policy performance, claim activity, and customer behavior. It helps stakeholders monitor key insurance metrics and identify trends for improving operations, customer service, and profitability.
 
+<img width="1452" height="771" alt="image" src="https://github.com/user-attachments/assets/7e276e91-71a2-480d-ba1c-a20e018f2045" />
+
 📊 Key Metrics & Insights Provided:
 
 ✅ Customer Overview
