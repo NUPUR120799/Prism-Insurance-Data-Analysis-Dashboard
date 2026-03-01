@@ -1,4 +1,4 @@
-# Prism-Insurance-Data-Analysis-Dashboard
+# Insurance-Data-Analysis
 
 This Insurance Dashboard for PRISM INSURANCE PVT. LTD. is designed to provide a detailed analysis of policy performance, claim activity, and customer behavior. It helps stakeholders monitor key insurance metrics and identify trends for improving operations, customer service, and profitability.
 
